@@ -4,8 +4,6 @@
 
 Available on [GitHub](https://github.com/comtrya/comtrya/releases/latest)
 
-
-
 {% tabs %}
 {% tab title="Linux" %}
 ```bash
@@ -27,7 +25,7 @@ iwr "https://get.comtrya.dev/ps" -UseBasicParsing | iex
 {% endtabs %}
 
 {% hint style="info" %}
- Super-powers are granted sometimes with sudo
+ Super-powers are sometimes granted with sudo
 {% endhint %}
 
 ### 

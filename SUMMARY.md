@@ -16,13 +16,9 @@
   * [file.copy](usage/actions/file.copy.md)
   * [directory.copy](usage/actions/directory.copy.md)
 
-## Styleguide
+## misc
 
-* [YAML](styleguide/yaml.md)
-* [Keywords](styleguide/keywords.md)
-* [Spaces](styleguide/spaces.md)
-* [Indentation](styleguide/indentation.md)
-* [Variables](styleguide/variables.md)
+* [Styleguide](misc/styleguide.md)
 
 ## Examples
 
