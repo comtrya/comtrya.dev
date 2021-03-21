@@ -1,6 +1,8 @@
 # YAML
 
-## Use yaml instead of yml for manifests
+{% hint style="info" %}
+## use yaml instead of yml for manifests
+{% endhint %}
 
 > Please use ".yaml" when possible - YAML.org
 

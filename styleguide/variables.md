@@ -1,6 +1,8 @@
 # Variables
 
-## Wrap vars in spaces
+{% hint style="info" %}
+### wrap vars in spaces
+{% endhint %}
 
 ### Good
 

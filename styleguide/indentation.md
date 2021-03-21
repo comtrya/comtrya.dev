@@ -1,6 +1,8 @@
 # Indentation
 
-## Use 2 spaces for indentation
+{% hint style="info" %}
+### use 2 spaces for indentation
+{% endhint %}
 
 ### Good
 
