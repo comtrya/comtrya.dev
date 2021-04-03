@@ -29,5 +29,7 @@ comtrya . -m EXAMPLE
 comtrya . -m EXAMPLE,TEST
 # executes all manifestes in the apps directory
 comtrya ./apps
+# executes Example manifest in the apps directory
+comtrya ./apps -m EXAMPLE
 ```
 
