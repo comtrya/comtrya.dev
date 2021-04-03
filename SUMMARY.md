@@ -9,12 +9,15 @@
 
 ## Usage
 
-* [depends](usage/depends.md)
-* [actions](usage/actions/README.md)
-  * [command.run](usage/actions/command.run.md)
-  * [directory.copy](usage/actions/directory.copy.md)
-  * [file.copy](usage/actions/file.copy.md)
-  * [package.install](usage/actions/package.install.md)
+* [manifests](usage/manifests.md)
+* [other](usage/other/README.md)
+  * [actions](usage/other/actions/README.md)
+    * [command.run](usage/other/actions/command.run.md)
+    * [directory.copy](usage/other/actions/directory.copy.md)
+    * [file.copy](usage/other/actions/file.copy.md)
+    * [package.install](usage/other/actions/package.install.md)
+  * [depends](usage/other/depends.md)
+* [provider](usage/provider.md)
 
 ## misc
 
