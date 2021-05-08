@@ -1,4 +1,4 @@
-# provider
+# Provider
 
 ### Curated list of supported package providers for `Comtrya`:
 

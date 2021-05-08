@@ -9,21 +9,25 @@
 
 ## Usage
 
-* [manifests](usage/manifests.md)
-* [other](usage/other/README.md)
-  * [actions](usage/other/actions/README.md)
-    * [command.run](usage/other/actions/command.run.md)
-    * [directory.copy](usage/other/actions/directory.copy.md)
-    * [file.copy](usage/other/actions/file.copy.md)
-    * [package.install](usage/other/actions/package.install.md)
-  * [depends](usage/other/depends.md)
-* [provider](usage/provider.md)
+* [Manifests](usage/manifests/README.md)
+  * [actions](usage/manifests/actions/README.md)
+    * [command.run](usage/manifests/actions/command.run.md)
+    * [directory.copy](usage/manifests/actions/directory.copy.md)
+    * [file.copy](usage/manifests/actions/file.copy.md)
+    * [package.install](usage/manifests/actions/package.install.md)
+  * [dependencies](usage/manifests/depends.md)
+* [Provider](usage/provider.md)
 
 ## misc
 
 * [Styleguide](misc/styleguide.md)
+* [Context-provider](misc/context-provider.md)
 
 ## Examples
 
-* [Untitled](examples/untitled.md)
+* [Command.run](examples/command.run.md)
+* [Directory.copy](examples/directory.copy.md)
+* [File.copy](examples/file.copy.md)
+* [Package.install](examples/package.install.md)
+* [Real world](examples/real-world.md)
 

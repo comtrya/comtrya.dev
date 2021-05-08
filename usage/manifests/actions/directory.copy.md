@@ -8,10 +8,7 @@
 
 ## Examples
 
-```yaml
-actions:
-  - action: directory.copy
-    from: SOURCE_DIR
-    to: DESTINATION_DIR
-```
+{% page-ref page="../../../examples/directory.copy.md" %}
+
+
 

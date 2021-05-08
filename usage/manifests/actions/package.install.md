@@ -10,11 +10,5 @@
 
 ## Examples
 
-```yaml
-actions:
-  - action: package.install
-    name: package_name
-    provider: brew
-    repository: EXAMPLE/tap
-```
+
 

@@ -9,10 +9,5 @@
 
 ## Examples
 
-```yaml
-- action: command.run
-  command: COMMAND
-  args: ["ARGUMENT"]
-  dir: .
-```
+
 
