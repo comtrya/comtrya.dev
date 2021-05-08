@@ -1,11 +1,18 @@
 # Command.run
 
-#### 1
+#### 
 
 ```yaml
+# Example 1 - execute a command   
 - action: command.run
-  command: COMMAND
-  args: ["ARGUMENT"]
+  command: echo
+  args: ["hi"]
+  dir: .
+  
+# Example 2 - execute a script
+- action: command.run
+  command: bash
+  args: ["-c", "./package_name/files/install.sh"]
   dir: .
 ```
 

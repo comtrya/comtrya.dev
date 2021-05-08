@@ -1,6 +1,6 @@
 # Directory.copy
 
-#### 1
+#### Copy a source directory to a destination directory
 
 ```yaml
 actions:

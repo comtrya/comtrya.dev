@@ -1,13 +1,13 @@
 # File.copy
 
-#### 1
+#### Copy a source file to a destination file
 
 ```yaml
-actions:
-  - action: file.copy
-    from: config
-    to: "{{ user.home_dir }}/.config/git/config"
-    template: true
-    chmod: 644
+- action: file.copy
+  from: package_name_config
+  to: "{{ user.home_dir }}/.package_name_config"
+  chmod: 644
 ```
+
+
 
