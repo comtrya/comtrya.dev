@@ -20,8 +20,7 @@
 
 ## misc
 
-* [Styleguide](misc/styleguide.md)
-* [Context-provider](misc/context-provider.md)
+* [Context Providers](misc/context-provider.md)
 
 ## Examples
 
