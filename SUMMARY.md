@@ -24,9 +24,9 @@
 
 ## Examples
 
-* [Command.run](examples/command.run.md)
-* [Directory.copy](examples/directory.copy.md)
-* [File.copy](examples/file.copy.md)
-* [Package.install](examples/package.install.md)
-* [Real world](examples/real-world.md)
+* [command.run](examples/command.run.md)
+* [directory.copy](examples/directory.copy.md)
+* [file.copy](examples/file.copy.md)
+* [package.install](examples/package.install.md)
+* [Real World](examples/real-world.md)
 

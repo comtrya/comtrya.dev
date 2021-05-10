@@ -1,4 +1,4 @@
-# File.copy
+# file.copy
 
 #### Copy a source file to a destination file
 

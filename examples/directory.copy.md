@@ -1,4 +1,4 @@
-# Directory.copy
+# directory.copy
 
 #### Copy a source directory to a destination directory
 

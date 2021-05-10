@@ -1,4 +1,4 @@
-# Command.run
+# command.run
 
 #### 
 

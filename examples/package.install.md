@@ -1,4 +1,4 @@
-# Package.install
+# package.install
 
 #### Basic install
 
