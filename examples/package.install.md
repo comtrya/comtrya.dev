@@ -28,7 +28,6 @@ actions:
       - package_name_2
       - package_name_3
       - ...
-    repository: homebrew/cask
 ```
 
 #### Install multiple packages from a specific package provider
@@ -41,6 +40,7 @@ actions:
       - package_name_2
       - package_name_3
       - ...
-    repository: homebrew/cask
+    provider: brew
+    repository: EXAMPLE/tap
 ```
 
