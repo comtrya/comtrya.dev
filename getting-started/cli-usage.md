@@ -1,10 +1,16 @@
-# CLI usage
+---
+description: Getting Started with the CLI
+---
+
+# CLI
 
 ```bash
-comtrya <manifest-directory> [FLAGS] [OPTIONS]
+comtrya <manifest-location> [FLAGS] [OPTIONS]
 ```
 
-`comtrya <manifest-directory> [FLAGS] [OPTIONS]`
+`comtrya <manifest-location> [FLAGS] [OPTIONS]`
+
+ **Comtrya supports local and remote manifest locations. See examples below**
 
 ## Flags
 
@@ -18,18 +24,21 @@ comtrya <manifest-directory> [FLAGS] [OPTIONS]
 
 ## ARGS
 
-* `comtrya <manifest-directory>` Directory where manifests are locate
+* `comtrya <manifest-location>` Manifests can come from multiple locations, such as local directory or Git repository.
 
 ## Examples
 
 ```bash
-# executes EXAMPLE manifest in current directory
+# Manifests in a local directory
+comtrya .
+
+# Manifests in a Git repository
+comtrya https://github.com/rawkode/rawkode
+
+# Execute a single manifest from a local directory
 comtrya . -m EXAMPLE
-# executes EXAMPLE & TEST manifests in current directory
+
+# Execute multiple manifests from a local directory
 comtrya . -m EXAMPLE,TEST
-# executes all manifestes in the apps directory
-comtrya ./apps
-# executes Example manifest in the apps directory
-comtrya ./apps -m EXAMPLE
 ```
 

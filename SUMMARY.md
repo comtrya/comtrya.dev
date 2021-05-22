@@ -5,7 +5,7 @@
 ## Getting started
 
 * [Installation](getting-started/installation.md)
-* [CLI usage](getting-started/cli-usage.md)
+* [CLI](getting-started/cli-usage.md)
 
 ## Usage
 
