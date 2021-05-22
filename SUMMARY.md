@@ -18,9 +18,10 @@
   * [dependencies](usage/manifests/depends.md)
 * [Provider](usage/provider.md)
 
-## misc
+## Contexts
 
-* [Context Providers](misc/context-provider.md)
+* [Providers](contexts/providers/README.md)
+  * [User](contexts/providers/context-provider.md)
 
 ## Examples
 

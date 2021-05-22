@@ -8,9 +8,9 @@ description: Getting Started with the CLI
 comtrya <manifest-location> [FLAGS] [OPTIONS]
 ```
 
-`comtrya <manifest-location> [FLAGS] [OPTIONS]`
-
- **Comtrya supports local and remote manifest locations. See examples below**
+{% hint style="info" %}
+ Comtrya supports local and remote manifest locations. See examples below
+{% endhint %}
 
 ## Flags
 
