@@ -1,4 +1,4 @@
-# file.copy
+# File
 
 | Key | Type | Optional | Description |
 | :--- | :--- | :--- | :--- |
@@ -7,8 +7,6 @@
 | `to` | string | no | destination file |
 | `template` | bool | yes | renderes files using [context providers](../../../../contexts/providers/context-provider.md), Default: `false` |
 | `chmod` | int | yes | octal permissions |
-
-## Examples
 
 
 
