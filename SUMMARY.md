@@ -24,3 +24,12 @@
 * [Contexts](core/contexts-1/README.md)
   * [User](core/contexts-1/context-provider.md)
 
+## Contributing
+
+* [Atoms](contributing/atoms.md)
+
+## Links
+
+* [Discord](https://rawkode.chat)
+* [GitHub](https://github.com/comtrya/comtrya)
+
