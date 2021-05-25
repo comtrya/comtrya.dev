@@ -1,12 +1,13 @@
 # User
 
-### Fields
+The user context provider allows for manifests and actions to leverage the following context.
 
-username
+| Field | Example |
+| :--- | :--- |
+| home\_dir | /home/comtrya |
+| config\_dir | /home/comtrya/.config |
+| name | Harlan |
+| username | harlan |
 
-name\`
 
-home\_dir
-
-config\_dir
 
