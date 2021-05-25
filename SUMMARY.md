@@ -18,9 +18,9 @@
       * [File](usage/manifests/actions/files-and-directories/file.copy.md)
       * [Symlinks](usage/manifests/actions/files-and-directories/symlinks.md)
     * [Packages](usage/manifests/actions/packages/README.md)
+      * [Providers](usage/manifests/actions/packages/provider.md)
       * [Install](usage/manifests/actions/packages/package.install.md)
   * [Dependencies](usage/manifests/depends.md)
-* [Provider](usage/provider.md)
 
 ## Contexts
 
