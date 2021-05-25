@@ -22,6 +22,5 @@
       * [Install](core/manifests/actions/packages/package.install.md)
   * [Dependencies](core/manifests/depends.md)
 * [Contexts](core/contexts-1/README.md)
-  * [Providers](core/contexts-1/providers/README.md)
-    * [User](core/contexts-1/providers/context-provider.md)
+  * [User](core/contexts-1/context-provider.md)
 
