@@ -1,3 +1,7 @@
+---
+description: 'Action: file.copy'
+---
+
 # File
 
 | Key | Type | Optional | Description |

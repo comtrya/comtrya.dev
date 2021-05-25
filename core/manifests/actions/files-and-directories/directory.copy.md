@@ -1,3 +1,7 @@
+---
+description: 'Action: directory.copy'
+---
+
 # Directory
 
 | Key | Type | Optional | Description |

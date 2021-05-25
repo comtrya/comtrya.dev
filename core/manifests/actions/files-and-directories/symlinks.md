@@ -1,4 +1,10 @@
+---
+description: 'Action: file.link'
+---
+
 # Symlinks
+
+
 
 | Key | Type | Optional | Description |
 | :--- | :--- | :--- | :--- |

@@ -1,3 +1,7 @@
+---
+description: 'Action: package.install'
+---
+
 # Install
 
 | Key | Type | Optional | Description |
