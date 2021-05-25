@@ -10,12 +10,15 @@
 ## Usage
 
 * [Manifests](usage/manifests/README.md)
-  * [actions](usage/manifests/actions/README.md)
-    * [command.run](usage/manifests/actions/command.run.md)
-    * [directory.copy](usage/manifests/actions/directory.copy.md)
-    * [file.copy](usage/manifests/actions/file.copy.md)
-    * [package.install](usage/manifests/actions/package.install.md)
-  * [dependencies](usage/manifests/depends.md)
+  * [Actions](usage/manifests/actions/README.md)
+    * [Commands](usage/manifests/actions/commands/README.md)
+      * [Run](usage/manifests/actions/commands/command.run.md)
+    * [Files & Directories](usage/manifests/actions/files-and-directories/README.md)
+      * [directory.copy](usage/manifests/actions/files-and-directories/directory.copy.md)
+      * [file.copy](usage/manifests/actions/files-and-directories/file.copy.md)
+    * [Packages](usage/manifests/actions/packages/README.md)
+      * [package.install](usage/manifests/actions/packages/package.install.md)
+  * [Dependencies](usage/manifests/depends.md)
 * [Provider](usage/provider.md)
 
 ## Contexts
