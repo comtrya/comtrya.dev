@@ -7,7 +7,15 @@
 | `args` | string | no | argument passed |
 | `dir` | string | no | actual working directory |
 
-## Examples
+## Example
+
+```yaml
+- action: command.run
+  dir: .
+  command: echo
+  args:
+  - Hello world
+```
 
 
 
