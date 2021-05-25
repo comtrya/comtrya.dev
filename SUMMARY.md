@@ -7,31 +7,21 @@
 * [Installation](getting-started/installation.md)
 * [CLI](getting-started/cli-usage.md)
 
-## Usage
+## Core
 
-* [Manifests](usage/manifests/README.md)
-  * [Actions](usage/manifests/actions/README.md)
-    * [Commands](usage/manifests/actions/commands/README.md)
-      * [Run](usage/manifests/actions/commands/command.run.md)
-    * [Files & Directories](usage/manifests/actions/files-and-directories/README.md)
-      * [Directory](usage/manifests/actions/files-and-directories/directory.copy.md)
-      * [File](usage/manifests/actions/files-and-directories/file.copy.md)
-      * [Symlinks](usage/manifests/actions/files-and-directories/symlinks.md)
-    * [Packages](usage/manifests/actions/packages/README.md)
-      * [Providers](usage/manifests/actions/packages/provider.md)
-      * [Install](usage/manifests/actions/packages/package.install.md)
-  * [Dependencies](usage/manifests/depends.md)
-
-## Contexts
-
-* [Providers](contexts/providers/README.md)
-  * [User](contexts/providers/context-provider.md)
-
-## Examples
-
-* [command.run](examples/command.run.md)
-* [directory.copy](examples/directory.copy.md)
-* [file.copy](examples/file.copy.md)
-* [package.install](examples/package.install.md)
-* [Real World](examples/real-world.md)
+* [Manifests](core/manifests/README.md)
+  * [Actions](core/manifests/actions/README.md)
+    * [Commands](core/manifests/actions/commands/README.md)
+      * [Run](core/manifests/actions/commands/command.run.md)
+    * [Files & Directories](core/manifests/actions/files-and-directories/README.md)
+      * [Directory](core/manifests/actions/files-and-directories/directory.copy.md)
+      * [File](core/manifests/actions/files-and-directories/file.copy.md)
+      * [Symlinks](core/manifests/actions/files-and-directories/symlinks.md)
+    * [Packages](core/manifests/actions/packages/README.md)
+      * [Providers](core/manifests/actions/packages/provider.md)
+      * [Install](core/manifests/actions/packages/package.install.md)
+  * [Dependencies](core/manifests/depends.md)
+* [Contexts](core/contexts-1/README.md)
+  * [Providers](core/contexts-1/providers/README.md)
+    * [User](core/contexts-1/providers/context-provider.md)
 
