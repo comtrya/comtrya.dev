@@ -13,7 +13,9 @@ Comtrya is a tool that allows you to configure and provision an operating system
 1. Run on any operating system
 2. Provide a simple YAML interface to, potentially, complex tasks
 
-> This is better, yes?
+{% hint style="success" %}
+This is better, yes?
+{% endhint %}
 
 ### Comparison to Alternatives
 
