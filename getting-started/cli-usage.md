@@ -42,3 +42,18 @@ comtrya . -m EXAMPLE
 comtrya . -m EXAMPLE,TEST
 ```
 
+{% hint style="info" %}
+We plan on supporting the same Git "syntax" that `docker image build` [supports](https://docs.docker.com/engine/reference/commandline/build/#git-repositories) for remote build contexts. You can [subscribe to progress here](https://github.com/comtrya/comtrya/issues/107).
+
+```text
+myrepo.git
+myrepo.git#mytag
+myrepo.git#mybranch
+myrepo.git#pull/42/head
+myrepo.git#:myfolder
+myrepo.git#main:myfolder
+myrepo.git#mytag:myfolder
+myrepo.git#mybranch:myfolder
+```
+{% endhint %}
+
