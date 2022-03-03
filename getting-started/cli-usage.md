@@ -9,20 +9,20 @@ comtrya <manifest-location> [FLAGS] [OPTIONS]
 ```
 
 {% hint style="info" %}
- Comtrya supports local and remote manifest locations. See examples below
+&#x20;Comtrya supports local and remote manifest locations. See examples below
 {% endhint %}
 
 ## Flags
 
 * `comtrya -h, --help` Prints help information
 * `comtrya -V, --version` Prints help information
-* `comtrya -v, --verbose` Debug & tracing mode \(-v, -vv\)
+* `comtrya -v, --verbose` Debug & tracing mode (-v, -vv)
 
 ## Options
 
 * `comtrya -m, --manifests <manifests>...` Run a subset of your manifests, comma separated list
 
-## ARGS
+## Arguments
 
 * `comtrya <manifest-location>` Manifests can come from multiple locations, such as local directory or Git repository.
 
@@ -35,6 +35,9 @@ comtrya .
 # Manifests in a Git repository
 comtrya https://github.com/rawkode/rawkode
 
+# Manifests in a Git repository with a branch and path
+comtrya https://github.com/rawkode/rawkode#main:dotfiles
+
 # Execute a single manifest from a local directory
 comtrya . -m EXAMPLE
 
@@ -45,15 +48,11 @@ comtrya . -m EXAMPLE,TEST
 {% hint style="info" %}
 We plan on supporting the same Git "syntax" that `docker image build` [supports](https://docs.docker.com/engine/reference/commandline/build/#git-repositories) for remote build contexts. You can [subscribe to progress here](https://github.com/comtrya/comtrya/issues/107).
 
-```text
-myrepo.git
-myrepo.git#mytag
-myrepo.git#mybranch
+Missing ones are:
+
+
+
+```
 myrepo.git#pull/42/head
-myrepo.git#:myfolder
-myrepo.git#main:myfolder
-myrepo.git#mytag:myfolder
-myrepo.git#mybranch:myfolder
 ```
 {% endhint %}
-
