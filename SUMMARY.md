@@ -21,6 +21,7 @@
       * [Providers](core/manifests/actions/packages/provider.md)
       * [Install](core/manifests/actions/packages/package.install.md)
   * [Dependencies](core/manifests/depends.md)
+  * [Variants](core/manifests/variants.md)
 * [Contexts](core/contexts-1/README.md)
   * [User](core/contexts-1/context-provider.md)
 
@@ -32,4 +33,3 @@
 
 * [Discord](https://rawkode.chat)
 * [GitHub](https://github.com/comtrya/comtrya)
-
