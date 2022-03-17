@@ -37,7 +37,7 @@ description: 'Action: package.install'
   name: curl
   provider: homebrew
   # Providers are guessed when missing, valid options are:
-  # aptitude, bsdpkg, homebrew, winget, and yay/pacman
+  # aptitude, bsdpkg, homebrew, pkgin, winget, and yay/pacman
 ```
 {% endtab %}
 
