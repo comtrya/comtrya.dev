@@ -7,6 +7,7 @@ When a `package.install` doesn't specify which provier to use, Comtrya will use 
 | pacman / yay | Arch |
 | apt | Debian / Ubuntu |
 | pkg | FreeBSD |
+| pkgin | NetBSD |
 | brew | macOS |
 | winget | Windows |
 
