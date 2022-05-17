@@ -23,7 +23,7 @@ actions:
         args: ["Hello", "rawkode!"]
 ```
 
-We even allow you to target the Linux family and specific distribution:
+We even allow you to target the OS family or specific distribution:
 
 ```
 actions:
@@ -32,8 +32,8 @@ actions:
     args:
       - hello, vanilla Linux!
     variants:
-      - where: os.family == "Debian"
-        command: echo Hi, Debian
+      - where: os.family == "unix"
+        command: echo Hi, Unix
       - where: os.distribution == "Ubuntu"
         command: echo Hi, Ubuntu
       - where: os.bitness == "64-bit"
