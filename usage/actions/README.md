@@ -10,5 +10,6 @@
 
 {% page-ref page="directory.copy.md" %}
 
+{% page-ref page="user.add.md" %}
 
 
