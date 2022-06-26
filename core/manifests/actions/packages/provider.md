@@ -10,4 +10,5 @@ When a `package.install` doesn't specify which provier to use, Comtrya will use 
 | pkgin | NetBSD |
 | brew | macOS |
 | winget | Windows |
+| xbps | Void Linux |
 
