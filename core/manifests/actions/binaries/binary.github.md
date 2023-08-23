@@ -4,6 +4,8 @@ description: 'Action: binary.github'
 
 # Run
 
+Downloads a binary from a github `repository` into a local `directory`.
+
 | Key          | Typ    | Optional | Description                           |
 | :----------- | :----- | :------- | :------------------------------------ |
 | `action`     | string | no       | `binary.github`                       |
