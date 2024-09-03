@@ -17,3 +17,6 @@ description: 'Action: git.clone'
   repository: comtrya/comtrya
   directory: {{ user.home_dir }}/Code/src/
 ```
+
+{% hint style="warning" %}This feature will no longer be available in main or versions after 0.8.8.{% endhint %}
+
