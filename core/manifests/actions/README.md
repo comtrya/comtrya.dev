@@ -12,7 +12,6 @@
 | `file.link` |  | Creates a link to a specific file |
 | `file.download` |  | Downloads a file from a given source |
 | `binary.github` | `bin.gh` | Downloads a release binary |
-| `git.clone` | | Clones a git repository |
 | `user.add` | | Creates a given user |
 
 {% page-ref page="commands/" %}
